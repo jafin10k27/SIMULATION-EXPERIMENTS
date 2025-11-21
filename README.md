@@ -60,13 +60,14 @@
 <img width="1890" height="408" alt="image" src="https://github.com/user-attachments/assets/02f098eb-be03-4579-a7c2-c70ad054eba2" />
 
 # CIRCUIT DIAGRAM- R-2R LADDER DAC
+<img width="1012" height="693" alt="{638F53A8-8261-4BEE-90A0-991945524457}" src="https://github.com/user-attachments/assets/7800f4d2-9571-4618-8a0a-3a26eeef4f15" />
 
 # SIMULATED OUTPUT
+<img width="1909" height="411" alt="{9DDA9EF1-F929-44B7-9EF2-70F0F7EFA076}" src="https://github.com/user-attachments/assets/4df0e4c9-3ff4-469b-9b15-9b0c5c531583" />
 
 # RESULT
 
-
-
+![WhatsApp Image 2025-11-21 at 17 53 51_cc740512](https://github.com/user-attachments/assets/811689df-fb1f-4b16-a240-b5fb91364474)
 
 
 
