@@ -54,8 +54,10 @@
 <img width="1898" height="390" alt="{F0EB759E-72CB-40E8-AE46-9C8396B775C7}" src="https://github.com/user-attachments/assets/ce525eef-0f74-4a24-abf2-7053989dc6af" />
 
 # CIRCUIT DIAGRAM- BAND-PASS FILTER
+<img width="374" height="177" alt="image" src="https://github.com/user-attachments/assets/645798d9-c814-4bd9-abf4-cd0770ff0090" />
 
 # SIMULATED OUTPUT
+<img width="1890" height="408" alt="image" src="https://github.com/user-attachments/assets/02f098eb-be03-4579-a7c2-c70ad054eba2" />
 
 # CIRCUIT DIAGRAM- R-2R LADDER DAC
 
